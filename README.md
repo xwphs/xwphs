@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xwphs
 - 👀 I’m interested in emerging technologies
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : I have a QQ mailbox and you can mail me at 1391578633@qq.com
 
